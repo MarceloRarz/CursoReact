@@ -10,3 +10,4 @@ git remote -> mostra os usuarios locais
 git remote - v -> mostra mais detalhes dos usuarios locais
 git status -> mostra os arquivos modificados
 git commit -am "Enviando comados Git"   a -> adicona direto m -> adiciona comentarios
+git log -> mostra os logs
