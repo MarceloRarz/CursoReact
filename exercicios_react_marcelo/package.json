@@ -2,7 +2,7 @@
   "name": "exercicios_react_marcelo",
   "version": "1.0.0",
   "description": "",
-  "main": "index.jsx",
+  "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --progress --colors --inline --hot"
   },
